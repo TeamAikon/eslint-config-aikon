@@ -1,2 +1,2 @@
-# aikon-eslint-config 
+# eslint-config-aikon
 Aikon JS linting configuration
