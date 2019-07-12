@@ -40,9 +40,6 @@ module.exports = {
       "prefer-single"
     ],
     "react/destructuring-assignment": 0,
-    // "no-param-reassign": 0, Airbnb uses 2
-    // "import/no-webpack-loader-syntax":1, Airbnb uses 2
-    // "comma-dangle": ["error", "never"], Airbnb uses 2 😁
   },
   "plugins": ["react", "react-hooks"],
   "globals": {
