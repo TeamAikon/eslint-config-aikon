@@ -50,9 +50,6 @@ module.exports = {
       "node": {
         "paths": ["src"]
       }
-    },
-    "react": {
-      "version": "detect"
     }
   }
 }
