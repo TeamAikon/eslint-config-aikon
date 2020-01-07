@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-aikon",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "eslint config for use in Aikon projects",
   "main": "index.js",
   "dependencies": {
