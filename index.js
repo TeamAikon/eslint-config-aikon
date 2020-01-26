@@ -31,7 +31,7 @@ module.exports = {
       "error",
       "single"
     ],
-    "implicit-arrow-linebreak": ["error", "beside"],
+    "implicit-arrow-linebreak":"off",
     "nonblock-statement-body-position": ["error", "beside"],
     "brace-style": [2, "1tbs", { "allowSingleLine": true }],
     "no-multi-spaces": "error",
