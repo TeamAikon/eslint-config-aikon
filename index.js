@@ -83,8 +83,7 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": 0,
     "@typescript-eslint/no-extra-semi": 0,
     "lines-between-class-members": 0,
-
-    "sx-a11y/alt-text": 0,
+    "jest/no-export": 0,
     "jsx-a11y/label-has-associated-control": 0,
     "jsx-a11y/click-events-have-key-events": 0,
     "jsx-a11y/no-static-element-interactions": 0,
@@ -104,6 +103,7 @@ module.exports = {
     "react/destructuring-assignment": 0,
     "react/jsx-indent": ["error", 2],
     "react/jsx-indent-props": ["error", 2],
+    "sx-a11y/alt-text": 0,
     "import/extensions": [
       "error",
       "ignorePackages",
